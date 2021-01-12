@@ -1,0 +1,46 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-footer-card{
+    border:0;
+    background-color: white;
+}
+.panda-slide .carousel-item{
+    background-color: #feeae9;
+    border-radius: 1em;
+}
+.categories img{
+    width: 100px;
+}
+.categories h1{
+    color: white;
+}
+
+.cat1 {
+    background-color: orange;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2 {
+    background-color: orchid;
+}
+.cat3 {
+    background-color: blue;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #ff589bc5 0%, #b31853c2 100%);
+    color: #ffffffd7;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
